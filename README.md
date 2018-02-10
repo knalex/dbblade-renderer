@@ -1,3 +1,6 @@
+### Description
+Laravel package for render blade template from database
+
 ### Installation (Laravel >=5.3.x)
 
 Run `composer require knalex/dbblade-renderer` 
